@@ -160,7 +160,7 @@ export default function GeneratePasswordComponent() {
         </div>
         <CardFooter className="flex justify-center mt-4">
   <p className="text-sm text-gray-400 dark:text-gray-400 font-semibold mb-0">
-    Ganerated by Asadullah Shafique
+     by Asadullah Shafique
   </p>
 </CardFooter>
 
